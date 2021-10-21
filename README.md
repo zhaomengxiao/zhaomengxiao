@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhaomengxiao
+- 👋 Hi, I’m Zhaoyoujun from LancetRobotics，Hangzhou，China
 - 👀 I’m interested in biomechanics/medical image processing/orthopedics/IGT
 - 📫 How to reach me zhaoyouj@outlook.com
 
